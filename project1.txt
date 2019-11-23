@@ -1,0 +1,32 @@
+TakeOver Accounts
+
+TOA is a facebook hacking tool that cracked passwords on victims, starting with the first name and last number 123, more than 5 to 10 could hack every friends.
+
+Banner:
+                                
+_/_/_/_/_/    _/_/      _/_/    
+   _/      _/    _/  _/    _/   
+  _/      _/    _/  _/_/_/_/    
+ _/      _/    _/  _/    _/     
+_/        _/_/    _/    _/   
+         Mr.KaitoX
+ -=[ TakeOver Accounts ]=-   
+  help to show all Commands
+ 
+Kaito >> help
+
+Help:                     
+
+*Commands        *Description        
+
+token          Get Access Token
+takeover       Start Cracking
+exit           exit the program
+
+
+
+                               
+
+
+
+     
